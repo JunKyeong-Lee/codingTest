@@ -1,4 +1,4 @@
-package com.baekjoon.BaaaaaaaaaaarkingDog0x01.p10869;
+package com.baekjoon.step._1.p1001;
 
 import java.util.Scanner;
 
@@ -8,11 +8,6 @@ public class Main {
 
         int a = sc.nextInt();
         int b = sc.nextInt();
-
-        System.out.println(a + b);
         System.out.println(a - b);
-        System.out.println(a * b);
-        System.out.println(a / b);
-        System.out.println(a % b);
     }
 }

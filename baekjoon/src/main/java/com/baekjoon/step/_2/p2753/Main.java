@@ -1,4 +1,4 @@
-package com.baekjoon.BaaaaaaaaaaarkingDog0x01.p02753;
+package com.baekjoon.step._2.p2753;
 
 import java.util.Scanner;
 
