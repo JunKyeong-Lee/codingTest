@@ -1,3 +1,5 @@
+package com.baekjoon.BaaaaaaaaaaarkingDog0x01.p17114;
+
 import java.util.Scanner;
 
 // https://www.acmicpc.net/problem/17114
